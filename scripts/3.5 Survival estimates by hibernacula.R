@@ -1,3 +1,4 @@
+#this is the same analysis from script 3 but with the output from Rmark instead of regular mark
 rm(list=ls())
 
 getwd()
