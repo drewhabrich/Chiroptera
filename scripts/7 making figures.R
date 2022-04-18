@@ -2,7 +2,6 @@
 rm(list=ls())
 
 getwd()
-setwd('C:/Users/andrew/Documents/[BAT and thesis] DOCUMENTS/USB BACKUP JULY 2018/R/pittag project/pittag analysis')
 library(ggplot2)
 library(dplyr)
 library(gridExtra)
